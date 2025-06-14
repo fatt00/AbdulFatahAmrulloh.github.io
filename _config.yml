@@ -1,12 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
 
-# Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Fatah Homepage"
@@ -17,64 +9,62 @@ url                      : https://AbdulFatahAmrulloh.github.io # the base hostn
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AbdulFatahAmrulloh/AbdulFatahAmrulloh.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+
 author:
   # Biographic information
-  avatar           : "Fatah-1.JPG"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  avatar           : "profile11.jpg"
+  name             : "Abdul Fatah Amrulloh" # Full name
+  pronouns         : 
+  bio              : "🔬 My research interests are in IoT, wireless communications, AI, and embedded systems. I'm currently working on various IoT projects and simulations. 📚 I'm also interested in assisting others on their path in the world of technology and academia."
+  location         : "Jakarta, Indonesia" # City, Country
+  employer         : "Telkom University"
+  uri              : 
   email            : "abdulfatah2660502@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  academia         : 
+  arxiv            : 
+  googlescholar    : 
+  impactstory      : 
+  orcid            : 
+  semantic         : 
+  pubmed           : 
+  researchgate     : 
+  scopus           : 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
   github           : "AbdulFatahAmrulloh"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : 
+  stackoverflow    : 
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  bluesky          : 
+  facebook         : 
+  flickr           : 
+  foursquare       : 
+  goodreads        : 
+  google_plus      : 
+  keybase          : 
+  instagram        : 
+  lastfm           : 
+  linkedin         : "Abdul Fatah Amrulloh" # Username - Update with your LinkedIn username
+  mastodon         : 
+  medium           : 
+  pinterest        : 
+  soundcloud       : 
+  steam            : 
+  telegram         : 
+  tumblr           : 
+  twitter          : 
+  vine             : 
+  weibo            : 
+  wikipedia        : 
+  xing             : 
+  youtube          : 
+  zhihu            : 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -86,22 +76,22 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   :  
+breadcrumbs              : false 
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+read_more                : "disabled" 
+talkmap_link             : false      
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : 
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : 
   facebook:
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            : 
+    colorscheme          : 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -117,10 +107,10 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" 
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  hide                   : false     
+  path                   : 
 
 
 # SEO Related
@@ -137,19 +127,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+og_image                 :  
+og_description           :  
+
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : 
+  name                   : 
+  links:
 
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "false"
   google:
     tracking_id          :
 
