@@ -28,4 +28,4 @@ The project successfully demonstrated the effectiveness of the AODV protocol in 
 - [GitHub Repository](https://github.com/AbdulFatahAmrulloh/AODV-VANET-Simulation)
 - [Project Report](https://abdul fatah amrulloh.github.io/reports/AODV-VANET-Report.pdf)
 
-<img src='/images/AODV-Simulation-Screenshot.png' alt='AODV Simulation Screenshot'>
+<img src='/images/vanets' alt='AODV Simulation Screenshot'>
