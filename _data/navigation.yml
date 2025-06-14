@@ -10,7 +10,8 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    url: "https://abdiinsani.unram.ac.id/index.php/jurnal/article/view/2076"
+    
   #- title: "Talks"
    # url: /talks/    
 
@@ -19,7 +20,6 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-    url: "https://abdiinsani.unram.ac.id/index.php/jurnal/article/view/2076"
         
  # - title: "Blog Posts"
   #  url: /year-archive/
