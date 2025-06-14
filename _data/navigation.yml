@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
     url: "https://abdiinsani.unram.ac.id/index.php/jurnal/article/view/2076"
     
   #- title: "Talks"
