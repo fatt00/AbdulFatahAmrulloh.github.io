@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "KLUB DETEKTIF BUKU: MENINGKATKAN MINAT BACA ANAK MELALUI PENDEKATAN KOMUNITAS BERBASIS MASYARAKAT"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2024-06-01-klub-detektif-buku
+excerpt: 'This paper discusses the Klub Detektif Buku program, which aims to enhance children s reading interest through a community-based approach.'
+date: 2024-06-01
+venue: 'Jurnal Abdi Insani'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://abdiinsani.unram.ac.id/index.php/jurnal/article/view/2076'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Hanni Pradana, Z., Praja, M. P. K., Permatasari, I., Amrulloh, A. F., Azzahra, G. D., & Dwisetyarini, F. (2024). KLUB DETEKTIF BUKU: MENINGKATKAN MINAT BACA ANAK MELALUI PENDEKATAN KOMUNITAS BERBASIS MASYARAKAT. Jurnal Abdi Insani, 11(4), 2739–2747.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The Klub Detektif Buku program aims to enhance children's reading interest in Karanggintung Village through a community-based approach that integrates literacy and technology. This program provides access to quality books through a mini library, interactive reading sessions, and book discussions. A total of 50 children, aged 6-12, as well as parents and the local community, actively participated in this program. The results showed an increase in reading interest in 64% of participants by 1 level, while the remaining 36% already had high reading interest from the beginning. The involvement of parents and the community proved to play an important role in the success of the program, creating an environment that supports children's literacy development. The use of technology also expanded children's access to quality reading materials. This program is expected to serve as a model that can be adopted by other regions facing similar literacy challenges.
