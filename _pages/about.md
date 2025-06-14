@@ -1,4 +1,4 @@
-👋 Hello there, I’m Abdul Fatah!
+
 
 
 👨‍🎓 I’m an enthusiastic undergraduate student in Telecommunication Engineering at Telkom University, Indonesia.
