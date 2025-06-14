@@ -1,11 +1,4 @@
----
-permalink: /
-title: "👋 Hello there, I’m Abdul Fatah!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+👋 Hello there, I’m Abdul Fatah!
 
 
 👨‍🎓 I’m an enthusiastic undergraduate student in Telecommunication Engineering at Telkom University, Indonesia.
