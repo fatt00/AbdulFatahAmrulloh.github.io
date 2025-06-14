@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello there, I’m Abdul Fatah!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👋 Hello there, I’m Abdul Fatah!
+
 👨‍🎓 I’m an enthusiastic undergraduate student in Telecommunication Engineering at Telkom University, Indonesia.
 🌐 My interests lie in IoT, adaptive networks, wireless communication, and embedded systems.
 
