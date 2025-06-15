@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 **ABDUL FATAH AMRULLOH**
-*Abdulfatah2660502@gmail.com | (+62) 85135090075 | [LinkedIn](https://www.linkedin.com/in/abdulfattahamrulloh/)*
+*| Abdulfatah2660502@gmail.com | (+62) 85135090075 | [LinkedIn](https://www.linkedin.com/in/abdulfattahamrulloh/)*
 
 ## About Me
 
