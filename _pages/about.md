@@ -62,3 +62,18 @@ I developed a system for monitoring NPK levels in soil using IoT technology. Thi
 
 
 I worked on a project aimed at improving soil moisture monitoring for smart agriculture using IoT technology. This project involved developing a system that can measure and report soil moisture levels, enabling farmers to optimize irrigation schedules and conserve water. The system is designed to be cost-effective and easy to deploy, making it accessible to a wide range of agricultural operations. 
+=======
+
+
+I developed a simulation system for ad-hoc vehicle networks (VANET) using the AODV protocol. This project involved configuring the simulation environment using SUMO for vehicle mobility and OMNeT++ for network simulation. 
+
+
+### Smart Soil Monitoring IoT-Based NPK Detection with Python
+
+
+I developed a system for monitoring NPK levels in soil using IoT technology. This project involved creating a device that can detect levels of Nitrogen (N), Phosphorus (P), and Potassium (K) in soil, which are essential nutrients for plant growth. The system uses Python for data processing and is designed to provide real-time monitoring of soil fertility, helping farmers make informed decisions about fertilization. 
+
+### IoT-Based Soil Moisture Monitoring for Smart Agriculture
+
+
+I worked on a project aimed at improving soil moisture monitoring for smart agriculture using IoT technology. This project involved developing a system that can measure and report soil moisture levels, enabling farmers to optimize irrigation schedules and conserve water. The system is designed to be cost-effective and easy to deploy, making it accessible to a wide range of agricultural operations. 
