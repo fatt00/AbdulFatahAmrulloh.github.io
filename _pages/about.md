@@ -9,52 +9,56 @@ redirect_from:
 ---
 
 
+---
+
+**ABDUL FATAH AMRULLOH**
+*Abdulfatah2660502@gmail.com | (+62) 85135090075 | [LinkedIn](https://www.linkedin.com/in/abdulfattahamrulloh/)*
+
+## About Me
+
+I am a passionate technology enthusiast and a graduate of Bachelor's Degree in Telecommunication Engineering from Telkom University. My interests lie in Internet of Things (IoT), Adaptive Networks, and smart network simulation. With experience in developing projects based on ad-hoc vehicle networks (VANET) and utilizing various simulation platforms and web development, I am dedicated to solving complex technical challenges through collaboration, communication, and creativity.
+
+## My Work and Research
+
+Throughout my academic and professional journey, I have been committed to expanding the frontiers of knowledge in the field of telecommunications and IoT.
+
+**Current Research Endeavors:**
+
+In my recent work, I have focused on developing decision support systems for complex network environments, emphasizing optimization and machine learning techniques. This foundational experience has enriched my understanding of data-driven solutions.
+
+**Smart Fish Farm Android (SMAFI):**
+
+I developed the user interface for SMAFI, a smart fish farm Android application focused on fish farming investment. This project involved managing the program using Android Studio, using Flutter with Dart programming language.
+
+**Simulation of Ad-Hoc On Demand Distance Vector (AODV) Routing Protocol on VANETs:**
+
+I developed a simulation system for ad-hoc vehicle networks (VANET) with AODV protocol using SUMO and OMNeT++ applications. This project involved analyzing parameters such as end-to-end delay, throughput, and packet delivery ratio, and creating a website to display simulation results and visualize parameters interactively and in real-time.
+
+IoT-Based Soil Monitoring:
+I have been involved in projects that focus on enhancing soil monitoring for smart agriculture. These projects include:
+Smart Soil Monitoring IoT-Based NPK Detection with Python: GitHub Repository
+IoT-Based Soil Moisture Monitoring for Smart Agriculture: GitHub Repository
+These projects aim to improve the efficiency of soil management in agriculture using IoT technologies.
+
+**Future Exploration:**
+
+As I move forward in my academic and professional journey, I am motivated by my passion for exploring the cutting-edge of IoT and its applications in various fields. My research path is a reflection of my commitment to unlocking potential through data-driven innovations.
 
 
+## Blog Posts
 
-👨‍🎓 I’m an enthusiastic undergraduate student in Telecommunication Engineering at Telkom University, Indonesia.
-🌐 My interests lie in IoT, adaptive networks, wireless communication, and embedded systems.
+### Simulation of AODV Routing Protocol on VANETs
 
-🧠 I am passionate about building smart, connected solutions using Python, MATLAB, Arduino, and cloud technologies.
-📡 I also explore intelligent network simulation using tools like OMNeT++, SUMO, and protocol design such as AODV for VANETs.
 
-💼 Currently, I'm engaged in academic research and hands-on projects around wireless & antenna systems, and automation.
-🤝 I love collaborating with others on real-world problems involving technology, learning, and innovation.
+I developed a simulation system for ad-hoc vehicle networks (VANET) using the AODV protocol. This project involved configuring the simulation environment using SUMO for vehicle mobility and OMNeT++ for network simulation. 
 
-🧑‍💻 Selected Experience
-🔧 Assistant – Network Security & Programming Lab
-Telkom University (2023–2024)
 
-Guided students in practical sessions using Python, MATLAB, and microcontroller tools.
+### Smart Soil Monitoring IoT-Based NPK Detection with Python
 
-Assessed and supported simulations related to signal processing, PCB design, and system modeling.
 
-📱 Android Developer – Smart Fish Farm (SMAFI)
-Developed a smart aquaculture app using Flutter for investment and monitoring.
+I developed a system for monitoring NPK levels in soil using IoT technology. This project involved creating a device that can detect levels of Nitrogen (N), Phosphorus (P), and Potassium (K) in soil, which are essential nutrients for plant growth. The system uses Python for data processing and is designed to provide real-time monitoring of soil fertility, helping farmers make informed decisions about fertilization. 
 
-Led UI/UX design and sensor integration for remote control features.
+### IoT-Based Soil Moisture Monitoring for Smart Agriculture
 
-🚗 VANET Protocol Simulation Project
-Designed and tested AODV routing protocols for vehicular networks.
 
-Simulated mobility and communication using SUMO and OMNeT++.
-
-Created a web interface for live result visualization.
-
-💼 Technical Skills
-Languages: Python, C++, MATLAB, HTML/CSS, Java
-
-Embedded & IoT: Arduino, ESP32, Raspberry Pi
-
-Simulation: OMNeT++, SUMO, CST Studio, SolidWorks
-
-Networking: IPv4/6, VLANs, STP, routing (static, dynamic)
-
-Tools: Visual Studio Code, AutoCAD, Git, Firebase
-
-📎 Certifications & Training
-CCNA: Introduction to Networks & Wireless Essentials (Cisco)
-
-Microsoft Azure AI Fundamentals
-
-Skill Academy: Excel Basic for Data Analysis
+I worked on a project aimed at improving soil moisture monitoring for smart agriculture using IoT technology. This project involved developing a system that can measure and report soil moisture levels, enabling farmers to optimize irrigation schedules and conserve water. The system is designed to be cost-effective and easy to deploy, making it accessible to a wide range of agricultural operations. 

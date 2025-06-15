@@ -1,6 +1,6 @@
 ---
 title: "Simulation of AODV Routing Protocol on VANETs"
-excerpt: "Developed a simulation system for ad-hoc vehicle networks (VANET) using the AODV protocol."
+excerpt: "Developed a simulation system for ad-hoc vehicle networks (VANET) using the AODV protocol. <br/><img src='/images/website.png'>" 
 collection: portfolio
 ---
 
@@ -25,7 +25,7 @@ The project successfully demonstrated the effectiveness of the AODV protocol in 
 
 ## Links
 
-- [GitHub Repository](https://github.com/AbdulFatahAmrulloh/AODV-VANET-Simulation)
-- [Project Report](https://abdul fatah amrulloh.github.io/reports/AODV-VANET-Report.pdf)
+- [GitHub Repository](https://github.com/AbdulFatahAmrulloh/Implementation-of-Ad-Hoc-On-Demand-Distance-Vector-AODV-Routing-Protocol-in-VANETs)
+- [Project Report](https://abdul fatah amrulloh.github.io/files/VANETs.pdf)
 
-<img src='/images/vanets' alt='AODV Simulation Screenshot'>
+<img src='/images/vanets.png' alt='AODV Simulation Screenshot'>
