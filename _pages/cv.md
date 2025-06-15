@@ -14,7 +14,6 @@ redirect_from:
 # Education
 
 * Bachelor's Degree in Telecommunication Engineering, Telkom University, 2021 - 2025
-  * GPA: 3.45 / 4.00
   * Relevant Courses: Algorithms & Programming, Microcontrollers, Computer Networks, Adaptive Network, Internetworking, Optical Communication Systems, Telematics Project Management, RF Electronics.
 
 # Work Experience
