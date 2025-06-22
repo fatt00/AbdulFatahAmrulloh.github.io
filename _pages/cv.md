@@ -52,6 +52,12 @@ redirect_from:
   * Analyzing parameters such as end-to-end delay, throughput, and packet delivery ratio.
   * Creating a website to display simulation results and visualize parameters interactively and in real-time.
 
+* Developed a web-based dashboard to monitor VANET routing performance using real-time metrics.
+  * Simulated VANET Vehicular Ad-hoc Network routing on Jl. Jenderal Sudirman, Purwokerto using AODV protocol
+  * Collected and visualized metrics such as Throughput, End-to-End Delay EED, and Packet Delivery Ratio PDR
+  * Integrated historical comparison features for data analysis and network performance evaluation
+ * Built using modern web technologies (e.g., Node.js, Chart.js) to deliver an interactive and responsive UI for network analysis
+
 # Training
 
 * CCNAv7: Introduction to Networks, Cisco Networking Academy | June 2023

@@ -1,6 +1,6 @@
 ---
 title: "Simulation of AODV Routing Protocol on VANETs"
-excerpt: "Developed a simulation system for ad-hoc vehicle networks (VANET) using the AODV protocol. <br/><img src='/images/website.png'>" 
+excerpt: "Developed a simulation system for ad-hoc vehicle networks (VANET) using the AODV protocol. <br/><img src='/images/vanets.png'>" 
 collection: portfolio
 ---
 
