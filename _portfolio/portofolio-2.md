@@ -1,6 +1,6 @@
 ---
 title: "Smart Soil Monitoring IoT-Based NPK Detection with Python"
-excerpt: "Developed a system for monitoring NPK levels in soil using IoT technology. <br/><img src='/images/website.png'>" 
+excerpt: "Developed a system for monitoring NPK levels in soil using IoT technology. <br/><img src='/images/npk.jpeg'>" 
 collection: portfolio
 ---
 
