@@ -26,9 +26,9 @@ Throughout my academic and professional journey, I have been committed to expand
 
 In my recent work, I have focused on developing decision support systems for complex network environments, emphasizing optimization and machine learning techniques. This foundational experience has enriched my understanding of data-driven solutions.
 
-**Smart Fish Farm Android (SMAFI):**
+**Smart Poultry Monitoring System (SMAJA):**
 
-I developed the user interface for SMAFI, a smart fish farm Android application focused on fish farming investment. This project involved managing the program using Android Studio, using Flutter with Dart programming language.
+I designed and developed the user interface for SMAJA, a smart poultry monitoring Android application focused on poultry investment and digital tracking. This project was built using Flutter with the Dart programming language and managed using Android Studio. The app provides an intuitive experience for users to monitor poultry asset performance, manage transactions, and visualize investment data through interactive UI components.
 
 **Simulation of Ad-Hoc On Demand Distance Vector (AODV) Routing Protocol on VANETs:**
 
