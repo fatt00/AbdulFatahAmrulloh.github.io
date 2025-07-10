@@ -41,8 +41,8 @@ redirect_from:
 
 # Organizational Experiences
 
-* SMART FISH FARM ANDROID (SMAFI), 2021
-  * Developing the user interface for SMAFI, a smart fish farm Android application.
+* SMART FISH FARM ANDROID (SAMAJA), 2021
+  * Developing the user interface for SAMAJA, a smart fish farm Android application.
   * An Android application focused on fish farming investment.
   * Managing the program using Android Studio, using Flutter with Dart programming language.
 
